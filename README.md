@@ -1,6 +1,6 @@
 ## VC TEST
 
-demo: https://vasyivanovpv.github.io/vc-test
+demo: https://vasyaivanovpv.github.io/vc-test
 
 ### Подробное описание механики
 
