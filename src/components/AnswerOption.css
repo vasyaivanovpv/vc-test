@@ -1,0 +1,35 @@
+.Answer-option {
+  margin-bottom: 10px;
+}
+.Answer-input {
+  display: none;
+}
+.Answer-label {
+  display: inline-block;
+  width: auto;
+  min-height: 50px;
+  padding: 12px 24px;
+  border-radius: 2px;
+  border: solid 1px #edcdd3;
+  background-color: #ffffff;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 20px;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+}
+
+.Answer-correct {
+  border-width: 2px;
+  border-color: var(--greenish);
+  color: var(--greenish);
+}
+.Answer-wrong {
+  border-color: var(--darkish-pink);
+  color: var(--darkish-pink);
+}
