@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vc-test/static/css/main.dcc97520.chunk.css",
+    "main.js": "/vc-test/static/js/main.ebfae2bf.chunk.js",
+    "main.js.map": "/vc-test/static/js/main.ebfae2bf.chunk.js.map",
+    "runtime-main.js": "/vc-test/static/js/runtime-main.00d23b72.js",
+    "runtime-main.js.map": "/vc-test/static/js/runtime-main.00d23b72.js.map",
+    "static/js/2.1b5ba10f.chunk.js": "/vc-test/static/js/2.1b5ba10f.chunk.js",
+    "static/js/2.1b5ba10f.chunk.js.map": "/vc-test/static/js/2.1b5ba10f.chunk.js.map",
+    "index.html": "/vc-test/index.html",
+    "precache-manifest.14e3215399d7dd0caf2de0c63e7e1a6e.js": "/vc-test/precache-manifest.14e3215399d7dd0caf2de0c63e7e1a6e.js",
+    "service-worker.js": "/vc-test/service-worker.js",
+    "static/css/main.dcc97520.chunk.css.map": "/vc-test/static/css/main.dcc97520.chunk.css.map",
+    "static/js/2.1b5ba10f.chunk.js.LICENSE.txt": "/vc-test/static/js/2.1b5ba10f.chunk.js.LICENSE.txt",
+    "static/media/Quiz.css": "/vc-test/static/media/arrow-right.913bae14.svg",
+    "static/media/App.css": "/vc-test/static/media/bg.1565a9de.png",
+    "static/media/Initial.css": "/vc-test/static/media/img03.4cf82839.png",
+    "static/media/Result.css": "/vc-test/static/media/score8.59565370.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00d23b72.js",
+    "static/js/2.1b5ba10f.chunk.js",
+    "static/css/main.dcc97520.chunk.css",
+    "static/js/main.ebfae2bf.chunk.js"
+  ]
+}
